@@ -26,7 +26,6 @@ Usage
 The point of this project was to create a language parser for the Python coding lanuage. 
 Our program supports arithmetic/assignment operators, if/elif/else blocks, conditional statements, while/for loops, nested structures, and comments.
 
-
 License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
